@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/03/14 22:37:49.000.829,=C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\SplitItemDetail1.pas</Transaction>
+    <Transaction>2020/03/14 22:37:49.000.603,=C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\GroupedItems1.pas</Transaction>
+    <Transaction>2020/03/14 22:38:24.000.264,=C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/14 22:39:16.000.357,=C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/14 22:39:40.000.013,C:\Users\bruno\OneDrive\Documentos\Desenvolvimento_Delphi\SISCOM\UPrincipal.pas=C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/03/14 22:39:40.000.013,C:\Users\bruno\OneDrive\Documentos\Desenvolvimento_Delphi\SISCOM\UPrincipal.dfm=C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/03/14 22:39:45.000.373,C:\Users\bruno\OneDrive\Documentos\Desenvolvimento_Delphi\SISCOM\SISCOM.dproj=C:\Users\bruno\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2020/03/14 22:43:33.000.585,=C:\Users\bruno\OneDrive\Documentos\Desenvolvimento_Delphi\SISCOM\Unit1.pas</Transaction>
+    <Transaction>2020/03/14 22:51:30.000.440,C:\Users\bruno\OneDrive\Documentos\Desenvolvimento_Delphi\SISCOM\UClientes.dfm=C:\Users\bruno\OneDrive\Documentos\Desenvolvimento_Delphi\SISCOM\Unit1.dfm</Transaction>
+    <Transaction>2020/03/14 22:51:30.000.440,C:\Users\bruno\OneDrive\Documentos\Desenvolvimento_Delphi\SISCOM\UClientes.pas=C:\Users\bruno\OneDrive\Documentos\Desenvolvimento_Delphi\SISCOM\Unit1.pas</Transaction>
+    <Transaction>2020/03/14 22:59:19.000.577,=C:\Users\bruno\OneDrive\Documentos\Desenvolvimento_Delphi\SISCOM\Unit1.pas</Transaction>
+    <Transaction>2020/03/14 23:00:58.000.257,C:\Users\bruno\OneDrive\Documentos\Desenvolvimento_Delphi\SISCOM\UDataModule.dfm=C:\Users\bruno\OneDrive\Documentos\Desenvolvimento_Delphi\SISCOM\Unit1.dfm</Transaction>
+    <Transaction>2020/03/14 23:00:58.000.257,C:\Users\bruno\OneDrive\Documentos\Desenvolvimento_Delphi\SISCOM\UDataModule.pas=C:\Users\bruno\OneDrive\Documentos\Desenvolvimento_Delphi\SISCOM\Unit1.pas</Transaction>
+    <Transaction>2020/03/17 17:12:54.000.425,C:\Users\bruno\OneDrive\Documentos\Desenvolvimento_Delphi\SISCOM\UClientes.dfm=C:\Users\bruno\OneDrive\Documentos\Desenvolvimento_Delphi\SISCOM\UClientes1.dfm</Transaction>
+    <Transaction>2020/03/17 17:12:54.000.425,C:\Users\bruno\OneDrive\Documentos\Desenvolvimento_Delphi\SISCOM\UClientes.pas=C:\Users\bruno\OneDrive\Documentos\Desenvolvimento_Delphi\SISCOM\UClientes1.pas</Transaction>
+    <Transaction>2020/03/17 17:13:07.000.883,C:\Users\bruno\OneDrive\Documentos\Desenvolvimento_Delphi\SISCOM\UClientes1.dfm=C:\Users\bruno\OneDrive\Documentos\Desenvolvimento_Delphi\SISCOM\UProdutos.dfm</Transaction>
+    <Transaction>2020/03/17 17:13:07.000.883,C:\Users\bruno\OneDrive\Documentos\Desenvolvimento_Delphi\SISCOM\UClientes1.pas=C:\Users\bruno\OneDrive\Documentos\Desenvolvimento_Delphi\SISCOM\UProdutos.pas</Transaction>
+    <Transaction>2020/03/17 17:17:33.000.261,=C:\Users\bruno\OneDrive\Documentos\Desenvolvimento_Delphi\SISCOM\UClientes.pas</Transaction>
+  </Transactions>
+</BorlandProject>
